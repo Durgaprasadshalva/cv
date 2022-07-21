@@ -1,0 +1,74 @@
+body {
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 30px;
+  background-color: #EAF6F6;
+}
+hr {
+  background-color: none;
+  border-color:grey;
+  border-style: dotted none none none;
+  border-width:5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 4%;
+}
+h1 {
+  margin-top: 0px;
+  color: #66BFBF;
+}
+.h1
+{
+  font-size: 50px;
+  color: black;
+}
+h3 {
+  color: #66BFBF;
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-bottom: 0px;
+}
+.Ski{
+  color: #66BFBF;
+  margin-top: 0px;
+}
+.Skil{
+  margin-left: 10px;
+}
+.about{
+  background-color: #B5EAEA;
+}
+.Education{
+  background-color: #B5EAEA;
+}
+.Hobbies{
+  background-color: #EDF6E5;
+}
+.Skills{
+  background-color: #EDF6E5;
+}
+.a{
+  position: absolute;
+  left: 715px;
+}
+.cd{
+  background-color: #B8B5FF;
+}
+.hcd{
+  color: white;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.form{
+  background-color: #E4FBFF;
+}
+label{
+  margin: 10px;
+}
+input{
+  margin: 10px;
+}
+textarea{
+  margin-left: 10px;
+}
