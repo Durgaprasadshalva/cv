@@ -191,8 +191,19 @@ body {
     margin: 0% auto;
   }
   @media only screen and (max-width: 600px) {
-  .form{
     
+    .form{
+    width: 80%;
+    padding: 5% 0%;
+    margin: 5% auto;
+    border-radius: 35px;
+    box-shadow: 0 0 50px 15px #48abe0;
+    }
+    textarea{
+    width: 60%;
+    height: 80%;
+    margin: 0% auto;
+    }
   }
   
   }
